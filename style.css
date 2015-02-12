@@ -1,0 +1,50 @@
+form {
+	font-family: Tahoma;
+}
+
+h1 {
+	font-color: #3D3C3A;
+	font-style: bold;
+	font-size: 100px;
+	background-color: #FBA827;
+	text-align: center;
+	border: solid;
+	border-radius: 25px;
+
+}
+
+#email {
+	color: #F8DC0B;
+	font-style: bold;
+	margin-left: 15px;
+	width: 375px;
+	border-radius: 25px;
+}
+
+#password {
+	color: #F8DC0B;
+	font-style: bold;
+	margin-left: 10px;
+	width: 375px;
+	border-radius: 25px;
+}
+
+#fname {
+	color: #F8DC0B;
+	font-style: bold;
+	margin-left: 5px;
+	width: 375px;
+	border-radius: 25px;
+}
+
+#lname {
+	color: #F8DC0B;
+	font-style: bold;
+	margin-left: 5px;
+	width: 375px;
+	border-radius: 25px;
+}
+
+
+
+
